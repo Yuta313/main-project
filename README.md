@@ -2,7 +2,7 @@
 Git講座用 mainプロジェクト
 
 ### Overview
-![demo](images/Animation.gif)
+![demo](images/Animated-GIF.gif)
 
 ### How to install
 1. download xxx
